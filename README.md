@@ -1,6 +1,7 @@
 # snake-tutorial
 
 # A snake game made with Rust
+# Rust的贪食蛇游戏
 
 ## Run `cargo run` to run the app, run `cargo build` to build an executable file. 
 
